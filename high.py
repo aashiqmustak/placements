@@ -2,6 +2,7 @@ arr = [1,2,3,4,5]
 max = arr[0]
 
 for i in range(0,len(arr)):
+    # print(arr[-2])
     if arr[i]> max:
         max=arr[i]
 print(max)
