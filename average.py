@@ -6,3 +6,4 @@ e= 50
 
 avg = (a + b + c + d + e) / 5
 print("Average = ",avg)
+print()
