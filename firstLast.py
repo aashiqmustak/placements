@@ -6,3 +6,4 @@ lastDigit = a[-1]
 sum = int(firstDigit) + int(lastDigit)
 
 print(sum)
+import pandas
