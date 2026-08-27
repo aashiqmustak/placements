@@ -1,5 +1,7 @@
 n = int(input("Enter number of elements: "))
 
+import pandas
+
 
 txt= ""
 num = []
